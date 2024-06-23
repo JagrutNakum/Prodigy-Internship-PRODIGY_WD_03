@@ -1,4 +1,5 @@
 function disableButtonAndChangeStyle(id1,id2,id3,id4,id5,id6,id7,id8,id9){
+  
 	document.getElementById(`${id1}`).disabled = true;
 	document.getElementById(`${id2}`).disabled = true;
 	document.getElementById(`${id3}`).disabled = true;
